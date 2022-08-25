@@ -1,6 +1,10 @@
 # react-native-custom-tab-bar
 Custom Tab Bar for React Native using Reanimated 2 and Lottie Animations
 
+// Github Repository ————————————————————————————————————————————
+
+https://github.com/MaximilianDietel03/react-native-custom-tab-bar
+
 // Docs ————————————————————————————————————————————
 
 Links to all of the packages documentations:
